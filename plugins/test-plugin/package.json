@@ -1,0 +1,14 @@
+{
+  "name": "test-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gatsby-browser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Guayo Mena",
+  "license": "ISC"
+}
